@@ -1596,7 +1596,7 @@ footer .box .links li:not(:last-child) {
   border-bottom: 1px solid #444;
 }
 footer .box .links li:hover {
-  padding-left: 20px;
+  padding-left: 10px;
 }
 footer .links li a {
   color: #b9b9b9;
